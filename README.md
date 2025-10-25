@@ -1,4 +1,5 @@
-# Advanced_Econometrics_Pasz_Dohnal_Tomáš
+# Advanced_Econometrics_Pasz_Dohnal_Gabriel
+## Home Assignment 1
 Repository for University project (JEM217, IES FSV UK)
 
 
