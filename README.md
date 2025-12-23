@@ -5,7 +5,7 @@ Repository for University projects (JEM217, IES FSV UK)
 - HW 1
 - HW 2
 - HW 3
-- Empirical Project: Determinants of lap Times in Formula 1
+- Empirical Project: Determinants of Lap Times in Formula 1
 
 
 ---------
