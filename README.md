@@ -1,5 +1,5 @@
 # Advanced Econometrics - Assignments and Projects
-Repository for University project (JEM217, IES FSV UK)
+Repository for University projects (JEM217, IES FSV UK)
 
 **Projects:**
 - HW 1
